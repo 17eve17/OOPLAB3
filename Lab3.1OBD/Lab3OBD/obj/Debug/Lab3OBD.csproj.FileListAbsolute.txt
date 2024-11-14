@@ -1,0 +1,7 @@
+C:\Users\vival\source\repos\Lab3OBD\Lab3OBD\bin\Debug\Lab3OBD.exe.config
+C:\Users\vival\source\repos\Lab3OBD\Lab3OBD\bin\Debug\Lab3OBD.exe
+C:\Users\vival\source\repos\Lab3OBD\Lab3OBD\bin\Debug\Lab3OBD.pdb
+C:\Users\vival\source\repos\Lab3OBD\Lab3OBD\obj\Debug\Lab3OBD.csproj.AssemblyReference.cache
+C:\Users\vival\source\repos\Lab3OBD\Lab3OBD\obj\Debug\Lab3OBD.csproj.CoreCompileInputs.cache
+C:\Users\vival\source\repos\Lab3OBD\Lab3OBD\obj\Debug\Lab3OBD.exe
+C:\Users\vival\source\repos\Lab3OBD\Lab3OBD\obj\Debug\Lab3OBD.pdb
