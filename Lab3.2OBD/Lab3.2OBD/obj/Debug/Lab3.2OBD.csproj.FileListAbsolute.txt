@@ -1,0 +1,6 @@
+C:\Users\vival\source\repos\Lab3.2OBD\Lab3.2OBD\obj\Debug\Lab3.2OBD.csproj.CoreCompileInputs.cache
+C:\Users\vival\source\repos\Lab3.2OBD\Lab3.2OBD\bin\Debug\Lab3.2OBD.exe.config
+C:\Users\vival\source\repos\Lab3.2OBD\Lab3.2OBD\bin\Debug\Lab3.2OBD.exe
+C:\Users\vival\source\repos\Lab3.2OBD\Lab3.2OBD\bin\Debug\Lab3.2OBD.pdb
+C:\Users\vival\source\repos\Lab3.2OBD\Lab3.2OBD\obj\Debug\Lab3.2OBD.exe
+C:\Users\vival\source\repos\Lab3.2OBD\Lab3.2OBD\obj\Debug\Lab3.2OBD.pdb
